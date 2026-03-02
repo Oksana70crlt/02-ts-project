@@ -4,7 +4,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./components/App";
 import "modern-normalize";
-import "./global.css";
+import "./index.css";
 
 // ReactDOM.createRoot(document.getElementById("root")!).render( //повертає елемент, який має тип HTMLElement або null, але ми впевнені, що він не буде null, тому використовуємо оператор "!" для вказівки TypeScript, що цей елемент існує.
 //   <React.StrictMode>
